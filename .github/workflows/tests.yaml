@@ -3,7 +3,7 @@ name: Tests
 on:
   push:
     branches:
-      - next
+      - fix-tests
   pull_request:
 
 jobs:
